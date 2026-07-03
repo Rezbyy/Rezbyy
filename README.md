@@ -3,7 +3,7 @@
 - 🔭 I'm currently looking for opportunities in IT
 - 🎓 Recent Bachelor of Applied IT graduate from Wintec (2025)
 - 💻 Experienced in Python, Java, C#, SQL, Web & App Development
-- 🌱 Always learning — currently exploring AI tools and ITSM processes
+- 🌱 Always learning, currently exploring AI tools and ITSM processes
 - 💬 Known for my mix of determination and easygoing nature, always curious and ready to dive into new challenges
 - ⚡ I bring enthusiasm and a positive outlook to everything I do, enjoying teamwork and connecting with others along the way
 
